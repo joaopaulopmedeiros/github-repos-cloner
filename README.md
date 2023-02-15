@@ -14,3 +14,5 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 4. Adição de chave SSH à conta do Github: 
 *settings > ssh and gpg keys > new ssh key*
+
+PLUS: Personal access token for automation *developer settings > access token*
